@@ -1,0 +1,16 @@
+```{r}
+library(tidyverse)
+file <- "/Users/rithikagurram/Documents/IDS Project/final_data.csv"
+df2_filtered <- read.csv(file)
+glimpse(df2_filtered)
+
+```
+
+
+```{r}
+file1 <- 'C:/Ramya/Syracuse/IDS/Project/datasets/102063.parquet'
+weather_Df <- read.csv(file1)
+summary(weather_Df)
+
+```
+
