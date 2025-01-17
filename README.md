@@ -6,11 +6,11 @@ This project focuses on analyzing and predicting energy consumption patterns for
 
 ## Team Members
 
-Rithika Gurram
-Ramya Chowdary Patchala
-Akshay Joshi
-Hemanth Chowdary Thammeneni
-Kishan
+* Rithika Gurram
+* Ramya Chowdary Patchala
+* Akshay Joshi
+* Hemanth Chowdary Thammeneni
+* Kishan
 
 
 ## Project Goals
