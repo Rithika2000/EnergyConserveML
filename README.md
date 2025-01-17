@@ -57,6 +57,9 @@ The Shiny app is published at: https://rpatchal.shinyapps.io/EnergyConsumption/
 
 Below are the images of the working of shiny app
 
+<img width="1239" alt="img5" src="https://github.com/user-attachments/assets/d91844fb-5f66-4ca5-a022-efc4327788c3" />
+
+
 <img width="997" alt="img1" src="https://github.com/user-attachments/assets/c6c389ce-d167-46d3-9d60-7bdf475dfcbc" />
 
 
@@ -69,7 +72,6 @@ Below are the images of the working of shiny app
 <img width="839" alt="img4" src="https://github.com/user-attachments/assets/4b37e4f3-9de2-4aae-a4c3-40fe66e0b9c5" />
 
 
-<img width="1239" alt="img5" src="https://github.com/user-attachments/assets/d91844fb-5f66-4ca5-a022-efc4327788c3" />
 
 
 ## Recommendations
