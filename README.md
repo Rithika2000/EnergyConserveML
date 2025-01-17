@@ -55,6 +55,23 @@ An interactive Shiny app was developed to visualize:
   
 The Shiny app is published at: https://rpatchal.shinyapps.io/EnergyConsumption/
 
+Below are the images of the working of shiny app
+
+<img width="997" alt="img1" src="https://github.com/user-attachments/assets/c6c389ce-d167-46d3-9d60-7bdf475dfcbc" />
+
+
+<img width="1061" alt="img2" src="https://github.com/user-attachments/assets/7a761449-b28e-4f76-a622-230851e06eb4" />
+
+
+<img width="893" alt="img3" src="https://github.com/user-attachments/assets/9b95c151-ef2d-4a4b-8a18-1ddce82390a4" />
+
+
+<img width="839" alt="img4" src="https://github.com/user-attachments/assets/4b37e4f3-9de2-4aae-a4c3-40fe66e0b9c5" />
+
+
+<img width="1239" alt="img5" src="https://github.com/user-attachments/assets/d91844fb-5f66-4ca5-a022-efc4327788c3" />
+
+
 ## Recommendations
 
   * Implement Demand Response (DR) programs to manage peak energy demand.
